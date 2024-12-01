@@ -1,0 +1,8 @@
+1. search for the latest blockchain explorers from november 2024
+2. use the gathered information to create a list of the top 5 blockchain explorers
+3. design an html and css website using the information you gathered
+5. only when you have completed the website design, you can then setup a new repository named blockchain-explorers-website-video-2 using the owner talkitdoit
+6. upload the initial website to the blockchain-explorers-website-video-2 repository
+7. create a new branch called talkitdoit-video-2-dev
+8. create a simple README.md with some basic details about the website, then commit and push the changes to the branch talkitdoit-video-2-dev
+9. submit a pull request to merge the changes from the talkitdoit-video-2-dev branch into the main branch
